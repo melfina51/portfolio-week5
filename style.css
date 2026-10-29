@@ -23,6 +23,7 @@ body {
 }
 
 .profile-img {
+    object-fit: cover;
     width: 150px;
     height: 150px;
     background-color: #6c5ce7;
